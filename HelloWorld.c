@@ -3,7 +3,7 @@
 //-----------------------------------------------------------------------------
 int main(void) {
 
-    printf("Hello Crool World");
+    printf("Hello Happy World");
 
     return(EXIT_SUCCESS);
 }
